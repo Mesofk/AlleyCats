@@ -14,7 +14,9 @@ On your turn:
 * Select a kitten to move
   - You can only move one kitten per turn
   - You can move the kitten the number of spaces you roll on the dice
-  - If there is an opponents kitten in a space, you can try to chase it off. it will go back to the start unless it is in a safe space.
+  - If there is an opponents kitten in a space, you can try to chase it off. Tt will go back to the start unless it is in a safe space.
   - Likewise, the opponent can scare your kittens back to your start unless they are safe.
 * Move the kitten
-End of turn.
+That's the end of your turn. Now your opponent has a go. Yay - sharing!
+
+The first person to get all their kittens home wins. 
